@@ -1,5 +1,7 @@
 # MDEF Website Template
 
+## This is a header 2 title
+
 This is a template for the student's personal repository during the _Master in Design for Emergent Futures (MDEF - Fab Lab Barcelona / IAAC)_. 
 
 
